@@ -1,0 +1,8 @@
+C:\Users\sg1578\Repos\ArgSaver\ArgSaver\bin\Debug\ArgSaver.exe.config
+C:\Users\sg1578\Repos\ArgSaver\ArgSaver\bin\Debug\ArgSaver.exe
+C:\Users\sg1578\Repos\ArgSaver\ArgSaver\bin\Debug\ArgSaver.pdb
+C:\Users\sg1578\Repos\ArgSaver\ArgSaver\obj\Debug\ArgSaver.csproj.AssemblyReference.cache
+C:\Users\sg1578\Repos\ArgSaver\ArgSaver\obj\Debug\ArgSaver.csproj.SuggestedBindingRedirects.cache
+C:\Users\sg1578\Repos\ArgSaver\ArgSaver\obj\Debug\ArgSaver.csproj.CoreCompileInputs.cache
+C:\Users\sg1578\Repos\ArgSaver\ArgSaver\obj\Debug\ArgSaver.exe
+C:\Users\sg1578\Repos\ArgSaver\ArgSaver\obj\Debug\ArgSaver.pdb
